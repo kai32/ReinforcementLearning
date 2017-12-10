@@ -10,4 +10,4 @@ This is a work in progress, the available content are:
 
 1. Chapter 2
 2. Chapter 3 and 4
-3. Chapter 5
+3. Chapter 5 - Racecar problem is left partially done
