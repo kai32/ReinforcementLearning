@@ -11,3 +11,4 @@ This is a work in progress, the available content are:
 1. Chapter 2
 2. Chapter 3 and 4
 3. Chapter 5 - Racecar problem is left partially done
+4. Chapter 6 - Figure 6.7 was omitted due to computation limitations
