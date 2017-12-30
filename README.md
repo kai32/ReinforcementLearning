@@ -14,3 +14,7 @@ This is a work in progress, the available content are:
 4. Chapter 6 - Figure 6.7 was omitted due to computation limitations
 5. Chapter 7
 6. Chapter 8 - Omitted figure 8.7 and 8.8 due to insufficient information regarding the experiments
+7. Chapter 9
+8. Chapter 10
+9. Chapter 11
+10. Chapter 12 ommitted for the time being
