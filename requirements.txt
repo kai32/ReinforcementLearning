@@ -66,7 +66,7 @@ scipy==0.13.0b1
 singledispatch==3.4.0.3
 six==1.4.1
 trollius==2.1
-urllib3==1.22
+urllib3==1.24.2
 wrapt==1.10.11
 xattr==0.6.4
 yapf==0.18.0
